@@ -19,7 +19,7 @@ def post_message(token, channel, text):
     )
     print(response)
  
-myToken = "xoxb-3069989903011-3133301087427-0e3JncqvT0RHBrGSaeDCAf51"
+myToken = "token"
 #postsWrap > article:nth-child(1) > header > div > div > div.col-md-6.blog-post-title > a
 
 test=soup.select("div.col-md-6.blog-post-title > a")

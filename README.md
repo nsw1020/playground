@@ -1,3 +1,3 @@
 # playground
 
-github blog : 
+Blog : https://velog.io/@nsw1020
